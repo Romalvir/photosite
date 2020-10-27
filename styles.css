@@ -1,0 +1,12 @@
+img{
+	width: 30%;
+	margin: 1em;
+
+}
+
+h5 {
+	font-family: 'Raleway', sans-serif;
+	text-transform: uppercase;
+	border-bottom: 2px solid #06d6a0;
+	width: 40%;
+}
